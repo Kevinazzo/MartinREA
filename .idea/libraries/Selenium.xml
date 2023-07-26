@@ -46,6 +46,7 @@
       <root url="jar://$PROJECT_DIR$/../../../../../Downloads/selenium-java-4.10.0/selenium-remote-driver-4.10.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../../../Downloads/selenium-java-4.10.0/selenium-safari-driver-4.10.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../../../Downloads/selenium-java-4.10.0/selenium-support-4.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Plugins/slf4j-api-2.0.7.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
